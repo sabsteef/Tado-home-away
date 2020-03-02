@@ -7,9 +7,8 @@ So i wanted to use the WiFi at home to check if someone is home. (or juist press
 What i did not want is letting Tado manage it.
 
 ### Features
-- Set Home
-- Set Away
-- get incription Key
+- Set Home mode
+- Set Away mode
 
 ## Installation
 1. go to your mobile application invite an new user (Use one of your spare email adresses) logout of your mobile app.
