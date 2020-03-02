@@ -19,5 +19,5 @@ curl -X PUT "https://my.tado.com/api/v2/homes/$tado_home/mobileDevices/$tado_mob
 #curl "https://my.tado.com/api/v2/homes/$tado_home/users" -H "Authorization: Bearer `cat $tado_cert_location`"
 
 # aditional steps to enable Home mode without Tado contract. ( can be disable if you have a contract.
-python3 ./home/homeassistant/.homeassistant/custom_components/tado_web.py
+python3 /home/homeassistant/.homeassistant/custom_components/tado_web.py
 
