@@ -6,6 +6,7 @@
 # include variabled
 eval $(parse_yaml /home/homeassistant/.homeassistant/secrets.yaml)
 
+# Debug option to validate if variables are extracted correctly from the secrets.yaml
 #printf 'the mobile_device is "%s"\n' $tado_mobile_device
 #printf 'the tado_home is "%s"\n' $tado_home
 
