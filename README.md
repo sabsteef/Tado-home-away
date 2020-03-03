@@ -1,11 +1,11 @@
 # Tado-home-away
 ## Description
-Tado V3+ doesn't let you set the Home or Away values. You need the Tado mobile app to set the Home/Away functions. based on Geolocation.
-i did not want to send my location every 30 sec to Tado. and my kids have older phones that do not last all of the youtube and media that my kids uses. And sent there location to Tado. its just to mutch for those phones.
+Tado V3+ doesn't let you set the Home or Away values. You need the Tado mobile app to set the Home/Away functions.And it's based on Geolocation.
+I did not want to send my location to Tado every 30 sec. And my kids have older phones that do not last all day of the youtube and media that my kids uses. And send there location to Tado. Its just to mutch for those phones.
 
-So i wanted to use the WiFi at home to check if someone is home. (or juist press a button, turn a nob.. etc)
-What i did not want is letting Tado manage it.
+So I wanted to use the WiFi at home to check if someone is home. (or juist press a button, turn a nob.. etc) the Tado app does not provide this at all. (You need to be away first, then a button will show up te set the away mode. and geo needs to be on for that.
 
+the following scripts will do this. 
 ### Features
 - Set Home mode
 - Set Away mode
