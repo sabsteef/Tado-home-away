@@ -1,6 +1,7 @@
-# Tado-home-away
+# Tado-home-away for Home Assistant
 ## Description
 Tado V3+ doesn't let you set the Home or Away values. You need the Tado mobile app to set the Home/Away functions.And it's based on Geolocation.
+
 I did not want to send my location to Tado every 30 sec. And my kids have older phones that do not last all day of the youtube and media that my kids uses. And send there location to Tado. Its just to mutch for those phones.
 
 So I wanted to use the WiFi at home to check if someone is home. (or juist press a button, turn a nob.. etc) the Tado app does not provide this at all. (You need to be away first, then a button will show up te set the away mode. and geo needs to be on for that.
