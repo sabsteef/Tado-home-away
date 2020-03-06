@@ -1,4 +1,4 @@
-# Tado Home / Away Functie for Home Assistant
+# Tado Home / Away Function for Home Assistant
 ## Description
 Tado V3+ doesn't let you set the Home or Away values. You need the Tado mobile app to set the Home/Away functions.And it's based on Geolocation.
 
