@@ -1,0 +1,15 @@
+// creating new version. switch to Pi4 
+
+sudo apt-get install -y curl jq unzip xvfb libxi6 libgconf-2-4 chromium-browser default-jdk
+
+
+pip3  install chromedriver
+pip3 install selenium
+
+copy the chromedriver to /usr/bin/chromedriver
+sudo chown root:root /usr/bin/chromedriver
+
+validate drivers
+chromedriver --version
+chromium-browser --version
+
